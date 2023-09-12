@@ -1,0 +1,12 @@
+{
+  "displayName": "Poser Tool",
+  "name": "poser-tool",
+  "unity": "2022.3",
+  "version": "0.0.1",
+  "description": "Posing tools for bone transforms.",
+  "author": "Simon Wittber <simonwittber@gmail.com.com> (https://github.com/simonwittber)",
+  
+  "type": "library",
+  "dependencies": {
+  }
+}
